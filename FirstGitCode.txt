@@ -1,0 +1,8 @@
+Hello World !!!
+
+Intro To Git
+First file in Git
+Added succesfully
+git
+
+Just completed firat commit in intellij
